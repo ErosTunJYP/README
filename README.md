@@ -11,21 +11,3 @@
 </p>
 
 ---
-
-## ✨ Características
-
-- ✅ Interfaz intuitiva
-- ⚡ Rápido y eficiente
-- 🛠️ Código modular y mantenible
-- 📦 Listo para producción
-- 🌍 Multiplataforma
-
----
-
-## 📸 Vista previa
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Captura+de+Pantalla](https://erostunjyp.github.io/BioSite/iconos/LogoE.png" width="600px">
-</p>
-
----
